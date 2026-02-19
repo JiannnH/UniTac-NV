@@ -1,0 +1,7 @@
+Original Path,Target Path
+UniTac-NV Dataset/hexagon_90_1/papillarray/sensor_data_20250203_135003.csv,UniTac-NV Dataset Processed/PapillArray/hexagon_PLA_papillarray.npz
+UniTac-NV Dataset/hexagon_TPU_90_1/papillarray/sensor_data_20250202_174333.csv,UniTac-NV Dataset Processed/PapillArray/hexagon_TPU_papillarray.npz
+UniTac-NV Dataset/cylinder_90_1/papillarray/sensor_data_20250203_143005.csv,UniTac-NV Dataset Processed/PapillArray/cylinder_PLA_papillarray.npz
+UniTac-NV Dataset/cylinder_TPU_90_1/papillarray/sensor_data_20250202_220324.csv,UniTac-NV Dataset Processed/PapillArray/cylinder_TPU_papillarray.npz
+UniTac-NV Dataset/oblong_90_1/papillarray/sensor_data_20250204_144331.csv,UniTac-NV Dataset Processed/PapillArray/oblong_PLA_papillarray.npz
+UniTac-NV Dataset/oblong_TPU_90_1/papillarray/sensor_data_20250202_213902.csv,UniTac-NV Dataset Processed/PapillArray/oblong_TPU_papillarray.npz

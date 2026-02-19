@@ -1,0 +1,9 @@
+Original Path,Target Path
+arbitrary_obj/xela/xela_arbitrary_1.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary1_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_2.csv,Data/Agnostic/Xela_arbitrary/arbitrary2_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_3.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary3_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_4.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary4_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_5.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary5_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_6.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary6_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_7.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary7_PLA_xela.npz
+arbitrary_obj/xela/xela_arbitrary_8.csv,UniTac-NV Dataset Processed/Xela_arbitrary/arbitrary8_PLA_xela.npz

@@ -1,0 +1,882 @@
+{
+    "Xela": {
+        "cylinder_PLA_xela.npz": {
+            "times": {
+                "shape": [
+                    64508
+                ],
+                "dtype": "float64",
+                "mean": 323.51514841976194,
+                "min": 0.0,
+                "max": 647.556771
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    64508,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 21.225682335696867,
+                "min": -1155.8700000000026,
+                "max": 1785.4100000000035
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    64508,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    64508,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.15196026143718372,
+                "min": -11.793675781913738,
+                "max": 1.6666740423232242
+            },
+            "end_effector_poses": {
+                "shape": [
+                    64508,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.43349084763678714,
+                "min": -3.0174763239436286,
+                "max": 1.3567364129550652
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 32953.28571428572,
+                "min": 1590.0,
+                "max": 63518.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "cylinder_TPU_xela.npz": {
+            "times": {
+                "shape": [
+                    79593
+                ],
+                "dtype": "float64",
+                "mean": 397.2183765633787,
+                "min": 0.0,
+                "max": 794.052892
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    79593,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 26.8484370310342,
+                "min": -1874.010000000002,
+                "max": 1608.4400000000023
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    79593,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    79593,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.1985729599217912,
+                "min": -10.854903614123184,
+                "max": 2.3505912316136914
+            },
+            "end_effector_poses": {
+                "shape": [
+                    79593,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.4016229212214381,
+                "min": -3.1296947317516164,
+                "max": 3.136703563860474
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 40398.64835164835,
+                "min": 2475.0,
+                "max": 78559.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "hexagon_TPU_xela.npz": {
+            "times": {
+                "shape": [
+                    102070
+                ],
+                "dtype": "float64",
+                "mean": 508.48771261488207,
+                "min": 0.0,
+                "max": 1017.429296
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    102070,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 24.331517082502987,
+                "min": -3142.4300000000003,
+                "max": 4168.209999999999
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    102070,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    102070,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.17728413515385374,
+                "min": -10.85401580883323,
+                "max": 2.8275025767455495
+            },
+            "end_effector_poses": {
+                "shape": [
+                    102070,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.2365094624105397,
+                "min": -3.1413819274251025,
+                "max": 3.141587018483857
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 51394.92307692308,
+                "min": 1653.0,
+                "max": 101068.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "hexagon_PLA_xela.npz": {
+            "times": {
+                "shape": [
+                    85077
+                ],
+                "dtype": "float64",
+                "mean": 425.87806212300626,
+                "min": 0.0,
+                "max": 852.513102
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    85077,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 16.911066737908786,
+                "min": -2662.9100000000035,
+                "max": 3943.5699999999997
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    85077,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    85077,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.1471089333806305,
+                "min": -11.42777355350719,
+                "max": 4.034932116706978
+            },
+            "end_effector_poses": {
+                "shape": [
+                    85077,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": 0.3155825631817036,
+                "min": -3.13339888209807,
+                "max": 3.1208072027496407
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 42984.12087912088,
+                "min": 1611.0,
+                "max": 84072.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "oblong_TPU_xela.npz": {
+            "times": {
+                "shape": [
+                    114201
+                ],
+                "dtype": "float64",
+                "mean": 570.9537953207065,
+                "min": 0.0,
+                "max": 1141.783201
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    114201,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 24.221336629665792,
+                "min": -2842.269999999997,
+                "max": 5259.709999999999
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    114201,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    114201,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.15132374664522155,
+                "min": -10.960669605965112,
+                "max": 4.198489423549935
+            },
+            "end_effector_poses": {
+                "shape": [
+                    114201,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.11398727085295858,
+                "min": -3.1412738823109416,
+                "max": 3.1411191867141928
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 58114.406593406595,
+                "min": 1749.0,
+                "max": 113157.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "oblong_PLA_xela.npz": {
+            "times": {
+                "shape": [
+                    101715
+                ],
+                "dtype": "float64",
+                "mean": 510.0248757821266,
+                "min": 0.0,
+                "max": 1021.775054
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    101715,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 12.645074254316118,
+                "min": -2963.470000000001,
+                "max": 4138.989999999998
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    101715,
+                    4,
+                    6,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "ft_values": {
+                "shape": [
+                    101715,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.14249451910610877,
+                "min": -11.449981808794853,
+                "max": 4.452474903002104
+            },
+            "end_effector_poses": {
+                "shape": [
+                    101715,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.3981141392340101,
+                "min": -3.141581182643848,
+                "max": 3.1415312511493836
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 51945.54945054945,
+                "min": 1677.0,
+                "max": 100701.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        }
+    },
+    "PapillArray": {
+        "oblong_PLA_papillarray.npz": {
+            "times": {
+                "shape": [
+                    99856
+                ],
+                "dtype": "float64",
+                "mean": 499.2748389988985,
+                "min": 0.0,
+                "max": 998.549849
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    99856,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.022057421832908018,
+                "min": -1.563765213496983,
+                "max": 5.136225605130195
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    99856,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.006135371241582775,
+                "min": -1.318424336221069,
+                "max": 1.8219826299883426
+            },
+            "ft_values": {
+                "shape": [
+                    99856,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.08871019546247803,
+                "min": -11.639729883613951,
+                "max": 7.869515310059382
+            },
+            "end_effector_poses": {
+                "shape": [
+                    99856,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": 0.3103680128789963,
+                "min": -3.1415305136727043,
+                "max": 3.141584689149361
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 50970.54945054945,
+                "min": 1365.0,
+                "max": 98827.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "hexagon_PLA_papillarray.npz": {
+            "times": {
+                "shape": [
+                    79367
+                ],
+                "dtype": "float64",
+                "mean": 396.8300439198912,
+                "min": 0.0,
+                "max": 793.659985
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    79367,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.022388224618883023,
+                "min": -1.2999306877385826,
+                "max": 5.3086572363674644
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    79367,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.004340554855297244,
+                "min": -1.0250180256385357,
+                "max": 1.1307444244474172
+            },
+            "ft_values": {
+                "shape": [
+                    79367,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.11622404650234999,
+                "min": -11.810995469437033,
+                "max": 4.281837730637136
+            },
+            "end_effector_poses": {
+                "shape": [
+                    79367,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": 0.1684129236663857,
+                "min": -3.1413446716898368,
+                "max": 3.1415141617510964
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 40188.758241758245,
+                "min": 1467.0,
+                "max": 78355.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "cylinder_TPU_papillarray.npz": {
+            "times": {
+                "shape": [
+                    73544
+                ],
+                "dtype": "float64",
+                "mean": 367.7150101226749,
+                "min": 0.0,
+                "max": 735.430166
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    73544,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.06083567929131131,
+                "min": -0.17392092061042785,
+                "max": 4.187015086829662
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    73544,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.01453192687047326,
+                "min": -0.12308783180639148,
+                "max": 0.7844967055171728
+            },
+            "ft_values": {
+                "shape": [
+                    73544,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.24239997162471802,
+                "min": -10.59502115440979,
+                "max": 2.0338212394060875
+            },
+            "end_effector_poses": {
+                "shape": [
+                    73544,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.2829170462000013,
+                "min": -3.141205729179283,
+                "max": 3.139110049503007
+            },
+            "selected": {
+                "shape": [
+                    94
+                ],
+                "dtype": "int64",
+                "mean": 37036.27659574468,
+                "min": 1471.0,
+                "max": 72502.0
+            },
+            "angle": {
+                "shape": [
+                    94
+                ],
+                "dtype": "int64",
+                "mean": -0.010638297872340425,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "oblong_TPU_papillarray.npz": {
+            "times": {
+                "shape": [
+                    114466
+                ],
+                "dtype": "float64",
+                "mean": 572.3250288541138,
+                "min": 0.0,
+                "max": 1144.650029
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    114466,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.03840674844966101,
+                "min": -1.8552690805662424,
+                "max": 4.571279066085816
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    114466,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.01068612204976636,
+                "min": -1.5448171708791052,
+                "max": 1.9200061381980777
+            },
+            "ft_values": {
+                "shape": [
+                    114466,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.14660004202056348,
+                "min": -10.672281086408844,
+                "max": 7.742992213828695
+            },
+            "end_effector_poses": {
+                "shape": [
+                    114466,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": 0.33396211398933073,
+                "min": -3.141555595001253,
+                "max": 3.1415529734926078
+            },
+            "selected": {
+                "shape": [
+                    92
+                ],
+                "dtype": "int64",
+                "mean": 58610.25,
+                "min": 1584.0,
+                "max": 113463.0
+            },
+            "angle": {
+                "shape": [
+                    92
+                ],
+                "dtype": "int64",
+                "mean": 0.43478260869565216,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "hexagon_TPU_papillarray.npz": {
+            "times": {
+                "shape": [
+                    100633
+                ],
+                "dtype": "float64",
+                "mean": 503.1600424851391,
+                "min": 0.0,
+                "max": 1006.320209
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    100633,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.04653117712349679,
+                "min": -1.0857400830443948,
+                "max": 5.193344325989485
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    100633,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.012059733563651883,
+                "min": -0.9036833200054243,
+                "max": 1.0766206567138434
+            },
+            "ft_values": {
+                "shape": [
+                    100633,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.1674521986436916,
+                "min": -10.57854202854211,
+                "max": 3.331916007346685
+            },
+            "end_effector_poses": {
+                "shape": [
+                    100633,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.3442089646581314,
+                "min": -3.141430586546899,
+                "max": 3.1414151445419045
+            },
+            "selected": {
+                "shape": [
+                    93
+                ],
+                "dtype": "int64",
+                "mean": 50593.5376344086,
+                "min": 1640.0,
+                "max": 99657.0
+            },
+            "angle": {
+                "shape": [
+                    93
+                ],
+                "dtype": "int64",
+                "mean": -0.11827956989247312,
+                "min": -45.0,
+                "max": 45.0
+            }
+        },
+        "cylinder_PLA_papillarray.npz": {
+            "times": {
+                "shape": [
+                    56296
+                ],
+                "dtype": "float64",
+                "mean": 281.4749962027675,
+                "min": 0.0,
+                "max": 562.950019
+            },
+            "sensor_matrices_force": {
+                "shape": [
+                    56296,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.03488729609606561,
+                "min": -0.12127824968099594,
+                "max": 4.878078407168388
+            },
+            "sensor_matrices_displacement": {
+                "shape": [
+                    56296,
+                    3,
+                    3,
+                    3
+                ],
+                "dtype": "float64",
+                "mean": 0.00653511300979469,
+                "min": -0.1144728355910629,
+                "max": 0.8604331083297729
+            },
+            "ft_values": {
+                "shape": [
+                    56296,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.15232595853700626,
+                "min": -11.514803843138496,
+                "max": 1.692592649105586
+            },
+            "end_effector_poses": {
+                "shape": [
+                    56296,
+                    6
+                ],
+                "dtype": "float64",
+                "mean": -0.34465937604222924,
+                "min": -3.1400744658189064,
+                "max": 3.141514891284123
+            },
+            "selected": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 28885.21978021978,
+                "min": 1350.0,
+                "max": 55324.0
+            },
+            "angle": {
+                "shape": [
+                    91
+                ],
+                "dtype": "int64",
+                "mean": 0.0,
+                "min": -45.0,
+                "max": 45.0
+            }
+        }
+    }
+}

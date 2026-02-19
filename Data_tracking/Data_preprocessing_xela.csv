@@ -1,0 +1,7 @@
+Original Path,Target Path
+UniTac-NV Dataset/hexagon_90_1/xela/sensor_data_20250203_154424.csv,UniTac-NV Dataset Processed/Xela/hexagon_PLA_xela.npz
+UniTac-NV Dataset/hexagon_TPU_90_1/xela/sensor_data_20250202_185729.csv,UniTac-NV Dataset Processed/Xela/hexagon_TPU_xela.npz
+UniTac-NV Dataset/cylinder_90_1/xela/sensor_data_20250203_145411.csv,UniTac-NV Dataset Processed/Xela/cylinder_PLA_xela.npz
+UniTac-NV Dataset/cylinder_TPU_90_1/xela/sensor_data_20250202_192418.csv,UniTac-NV Dataset Processed/Xela/cylinder_TPU_xela.npz
+UniTac-NV Dataset/oblong_90_1/xela/sensor_data_20250203_162435.csv,UniTac-NV Dataset Processed/Xela/oblong_PLA_xela.npz
+UniTac-NV Dataset/oblong_TPU_90_1/xela/sensor_data_20250202_210726.csv,UniTac-NV Dataset Processed/Xela/oblong_TPU_xela.npz
