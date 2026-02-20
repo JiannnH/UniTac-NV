@@ -13,8 +13,18 @@ The UniTac-NV dataset focuses on aligning tactile data from different non-vision
 ### Data Collection
 The data was collected by pressing tactile sensors against 3D printed objects with specific geometries (square, circular, hexagonal and arbitrary prisms) and materials (PLA, TPU) using a UR5e robotic arm. Object CAD is available in folder `CAD`.
 
+<img src="Media/Setup.jpg" width="500" /> 
+
+ A: Hardware setup for tactile contact data collection. B: Data collection procedure
+
+<img src="Media/DataCollection.gif" width="500" />
+
+Data Collection
+
 *   **Video:** [[Link]](https://www.youtube.com/watch?v=KwVbppyKy80&t=1s)
 *   **Details:** Refer to Section II of the [paper](https://ieeexplore.ieee.org/abstract/document/11247617) for the detailed experimental setup and collection procedure.
+
+
 
 ## Getting Started
 
